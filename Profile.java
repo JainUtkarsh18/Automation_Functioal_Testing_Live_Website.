@@ -33,7 +33,6 @@ public class Profile extends BaseSteps {
     AppLink app;
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate login, city selection, 
 	 * 				and addition of multiple lab tests to the cart.
 	 */
@@ -66,7 +65,6 @@ public class Profile extends BaseSteps {
         }
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate the error message displayed for an invalid coupon code.
 	 * 				(Given the invalid input)
 	 */
@@ -90,7 +88,6 @@ public class Profile extends BaseSteps {
          }
      /*
  	 * Created By: Utkarsh Jain
- 	 * Reviewed By: Aparna Savant
  	 * Description: To validate the complete checkout flow and 
  	 * 				proceeding for Pay Now.
  	 */
@@ -126,7 +123,6 @@ public class Profile extends BaseSteps {
     	} 
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate navigation and content access 
 	 * 				from the Health Concern section in the Lab Tests page.
 	 */
@@ -161,7 +157,6 @@ public class Profile extends BaseSteps {
     	}
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate the functionality of the Lab Tests search bar 
 	 * 				and result navigation and selection of different test.
 	 */
@@ -204,7 +199,6 @@ public class Profile extends BaseSteps {
     	}
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate adding multiple vital check up tests to the cart 
 	 * 				and cart verification that it sustains the multiple operations.
 	 */
@@ -258,7 +252,6 @@ public class Profile extends BaseSteps {
     	}
     /*
 	 * Created By: Utkarsh Jain
-	 * Reviewed By: Aparna Savant
 	 * Description: To validate mobile number verification for the App Link feature.
 	 * 				(Entered the Invalid and Valid Input)
 	 */
