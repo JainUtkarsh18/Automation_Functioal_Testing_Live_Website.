@@ -1,6 +1,6 @@
 # Automation_Functioal_Testing_Live_Website.
 Used Selenium for testing, implemented in Java.
-Created a Maven and also used TestNg.
+Created a Maven Project and also used TestNg for reporting.
 Also used POM for separating test logic from user interface (UI) elements.
 
 Live Website: Practo.
