@@ -6,3 +6,5 @@ Also used POM for separating test logic from user interface (UI) elements.
 Live Website: Practo.
 Website Link: https://www.practo.com/
 Module Tested: https://www.practo.com/tests
+
+Please note that if in future the website elements change dynamically, please modify the XPaths and add more waits.
